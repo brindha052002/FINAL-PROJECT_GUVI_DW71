@@ -1,4 +1,5 @@
-##Project 1 : Kannada MNIST - Classification Problem
+# Project 1 : Kannada MNIST - Classification Problem
+
 Problem Statement: This is an extension of clasic MNIST classification problem. Instead of using
 Hindu numerals, lets use a recently-released dataset of Kannada digits. This is a 10 Class classification
 problem.
@@ -7,8 +8,9 @@ language has roughly 45 million native speakers and is written using the Kannada
 //en.wikipedia.org/wiki/Kannada
 Dataset can be downloaded from the link : https://www.kaggle.com/datasets/higgstachyon/
 kannada-mnist.
-All details of the dataset curation has been captured in the paper titled: Prabhu, Vinay Uday. "KannadaMNIST: A new handwritten digits dataset for the Kannada language."https://arxiv.org/abs/
-1908.01242
+All details of the dataset curation has been captured in the paper titled: Prabhu, Vinay Uday. 
+"KannadaMNIST: A new handwritten digits dataset for the Kannada language."https://arxiv.org/abs/1908.01242
+
 Procedure:
 1. Extract the dataset from the npz file from the downloaded dataset or from the web.There are
 60000 images for training and 10000 images for test. Each image is of the size 28X28.
